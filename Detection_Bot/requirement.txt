@@ -1,0 +1,11 @@
+torch
+pandas
+streamlit
+matplotlib
+transformers
+logger
+charts
+openai
+scikit-learn
+numpy
+joblib
